@@ -2,3 +2,6 @@
 First attempt at a github repo.
 <br/> I am trying to see how github works
 <br/> This is a second update
+
+## Subheader
+This was done on VS Code
